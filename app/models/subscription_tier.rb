@@ -1,0 +1,2 @@
+class SubscriptionTier < ApplicationRecord
+end
